@@ -2,6 +2,12 @@
 
 Web3.py é uma biblioteca Python para interagir com a blockchain Ethereum. Ela fornece uma API simples e poderosa para realizar tarefas como consultar o estado da blockchain, enviar transações e interagir com contratos inteligentes.Neste tutorial, você aprenderá os conceitos básicos do Web3.py e como usá-lo para interagir com contratos inteligentes Ethereum e realizar operações na blockchain.
 
+**Tutorial**
+
+**Web3.py: Desenvolvendo app clientes para Ethereum com Python**
+
+https://dev.to/valterlobo/web3py-desenvolvendo-app-clientes-para-ethereum-com-python-1f2d
+
 **Requisitos**
 
 Para usar o Web3.py, você precisará do seguinte:
